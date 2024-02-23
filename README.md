@@ -5,8 +5,8 @@
 
 # PCB V1.2: Revised the PCB design for component availability different USB-connector, LDO and Crystal
 
+![k1-aioc_oe9sau](https://github.com/OE9SAU/AIOC/assets/114362733/22335a1f-d549-4014-81ed-362d356a1ace)
 
-![k1-aioc_oe9sau](https://github.com/OE9SAU/AIOC/assets/114362733/a671cf9b-b420-4975-abb8-0409261f5d1c)
 
 # AIOC
 This is the Ham Radio *All-in-one-Cable*. by skuep. https://github.com/skuep/AIOC
