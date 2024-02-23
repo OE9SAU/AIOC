@@ -3,6 +3,9 @@
 [![](https://img.shields.io/github/v/release/skuep/AIOC?sort=semver)](https://github.com/skuep/AIOC/releases)
 [![](https://img.shields.io/github/license/skuep/AIOC)](https://github.com/skuep/AIOC/blob/master/LICENSE.md)
 
+V1.1 by OE9SAU
+Revised circuit board design with USB-B Mini and SOT-23 voltage regulator.
+
 # AIOC
 This is the Ham Radio *All-in-one-Cable*. **It is currently still being tested!** Please read this README carefully before ordering anything.
 
