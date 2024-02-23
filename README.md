@@ -9,6 +9,4 @@
 This is the Ham Radio *All-in-one-Cable*. by skuep. https://github.com/skuep/AIOC
 See github for all other informations!
 
-![AIOC with Wouxun and Direwolf](doc/images/k1-aioc-wouxun.jpg?raw=true "AIOC with Wouxun and Direwolf")
-
 
