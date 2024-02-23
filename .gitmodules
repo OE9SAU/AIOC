@@ -1,3 +1,0 @@
-[submodule "stm32/aioc-fw/Middlewares/Third-Party/tinyusb"]
-	path = stm32/aioc-fw/Middlewares/Third-Party/tinyusb
-	url = https://github.com/hathach/tinyusb.git
