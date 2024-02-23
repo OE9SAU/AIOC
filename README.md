@@ -12,4 +12,4 @@
 This is the Ham Radio *All-in-one-Cable*. by skuep. https://github.com/skuep/AIOC
 See github for all other informations!
 
-
+![k1-aioc_orig](https://github.com/OE9SAU/AIOC/assets/114362733/5cb6774a-349a-457d-bba1-36f11c0b6351)
