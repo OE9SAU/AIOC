@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/v/release/skuep/AIOC?sort=semver)](https://github.com/skuep/AIOC/releases)
 [![](https://img.shields.io/github/license/skuep/AIOC)](https://github.com/skuep/AIOC/blob/master/LICENSE.md)
 
-# PCB V1.2: Revised the PCB design for component availability different USB-connector, LDO and Crystal
+# PCB V1.2: Revised the PCB design for component availability
 
 ![k1-aioc_oe9sau](https://github.com/OE9SAU/AIOC/assets/114362733/22335a1f-d549-4014-81ed-362d356a1ace)
 
